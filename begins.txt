@@ -1,3 +1,4 @@
-Empezando repositorios en Git y Github
-cambiando el archivo 1
-Reemplazando por anterior 
+Starting repositories in Git and Github
+changing language to english
+To improve my vocabulary 
+this is the first change in english 
